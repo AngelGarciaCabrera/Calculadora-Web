@@ -1,0 +1,361 @@
+.head{
+    position: absolute;
+    width: 300px;
+    height: 95px;
+    margin-top: 120px;
+    margin-left: 300px;
+
+
+    box-shadow: 7cm;
+    border: 25px;
+    background: rgb(109, 108, 108);
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    border-color: aqua;
+
+}
+.body{
+
+    position: absolute;
+    width: 300px;
+    height: 505px;
+    margin-top: 70px;
+    margin-left: 5px;
+    border: 8px;
+    border-color: black;
+
+
+    box-shadow: 7cm;
+    
+    background: rgb(228, 225, 225);
+    font-style: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  
+
+    
+}
+.Pantalla3{
+    position: absolute;
+    left: -75px;
+    
+    width: 200px;
+    height: 90px;
+    mask-border: 35px;
+    margin-top: 30px;
+   
+
+}
+.pantalla5{
+    position: absolute;
+    
+    border: 15px;
+    background: rgb(131, 131, 131);
+    left: 500px;
+    
+    width: 700px;
+    height: 300px;
+   
+    margin-top: -250px;
+    font-size: 12px;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    
+   
+
+}
+.pantalla5:hover{
+    background: rgb(92, 92, 92);
+
+}
+
+.h1{
+    position: relative;
+    left: 550px;
+    right: 200px;
+    top: -300px;
+    font-size: 100%;
+}
+.pantalla1{
+    
+    position: relative;
+    left: 120px;
+    right: 200px;
+    width: 200px;
+    height: 90px;
+    mask-border: 35px;
+    margin-top: 10px;
+    text-align: right;
+    font-size: 30px;
+    background-color: rgb(146, 148, 148);
+}
+
+.botonx{
+
+    position: relative;
+    top: 145px;
+    left: -6px;
+    right: 25px;;
+    width: 50px;
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(157, 160, 160);
+    padding: auto;
+    
+    }
+    .botonS{
+
+        position: relative;
+        top: 145px;
+        left: -4px;
+        right: 20px;;
+        width: 50px;
+        height: 50px;
+        font-family: 'Courier New', Courier, monospace;
+        background-color: rgb(157, 160, 160);
+        padding: auto;
+        
+        }
+    .botonesx{
+        position: relative;
+        top: 60px;
+        right: 50px;
+        width: 50px;
+        height: 50px;
+        font-family: 'Courier New', Courier, monospace;
+        background-color: rgb(240, 30, 2);
+        padding: auto;
+        
+
+    }
+    .botonese{
+        position: relative;
+        top: 60px;
+       left: 40px;
+        width: 50px;
+        height: 50px;
+        font-family: 'Courier New', Courier, monospace;
+        background-color: rgb(228, 107, 59);
+        padding: auto;
+        
+
+    }
+    .botonR{
+
+        position: relative;
+        top: 145px;
+        left: -5px;
+        right: 25px;;
+        width: 70px;
+        height: 50px;
+        font-family: 'Courier New', Courier, monospace;
+        background-color:rgb(157, 160, 160);
+        padding: auto;
+        
+        }
+        .botonM{
+
+            position: relative;
+            top: 145px;
+            left: -4px;
+            right: 25px;;
+            width: 70px;
+            height: 50px;
+            font-family: 'Courier New', Courier, monospace;
+            background-color: rgb(157, 160, 160);
+            padding: auto;
+            
+            }
+.boton{
+
+position: relative;
+top: 165px;
+left: -6px;
+right: 25px;;
+width: 70px;
+height: 50px;
+font-family: 'Courier New', Courier, monospace;
+background-color: rgb(139, 233, 228);
+padding: auto;
+
+}
+.boton2{
+
+    position: relative;
+    top: 165px;
+    left: -5px;
+    right: 20px;;
+    width: 70px;
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(139, 233, 228);
+    padding: auto;
+    
+}
+.boton3{
+
+    position: relative;
+    top: 165px;
+    left: -4px;
+    right: 20px;;
+    width: 70px;
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(139, 233, 228);
+    padding: auto;
+    
+ }
+ .boton4{
+
+    position: relative;
+    top: 175px;
+    left: -6px;
+    right: 20px;;
+    width: 70px;
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(139, 233, 228);
+    padding: auto;
+    
+    }
+    .boton4{
+
+    position: relative;
+    top: 175px;
+    left: -6px;
+    right: 20px;;
+    width: 70px;
+    height: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(139, 233, 228);
+    padding: auto;
+    
+    }
+    .boton5{
+
+        position: relative;
+        top: 175px;
+        left: -5px;
+        right: 20px;;
+        width: 70px;
+        height: 50px;
+        font-family: 'Courier New', Courier, monospace;
+        background-color: rgb(139, 233, 228);
+        padding: auto;
+        
+        }
+        .boton6{
+
+            position: relative;
+            top: 175px;
+            left: -4px;
+            right: 20px;;
+            width: 70px;
+            height: 50px;
+            font-family: 'Courier New', Courier, monospace;
+            background-color: rgb(139, 233, 228);
+            padding: auto;
+            
+            }
+            .boton7{
+                padding: auto;
+                position: relative;
+                top: 185px;
+                left: -6px;
+                right: 20px;;
+                width: 70px;
+                height: 50px;
+                font-family: 'Courier New', Courier, monospace;
+                background-color: rgb(139, 233, 228);
+                
+                
+                }
+                .boton8{
+
+                    position: relative;
+                    padding: auto;
+                    top: 185px;
+                    left: -5px;
+                    right: 20px;;
+                    width: 70px;
+                    height: 50px;
+                    font-family: 'Courier New', Courier, monospace;
+                    background-color: rgb(139, 233, 228);
+                    
+                    
+                    }
+                    .boton9{
+
+                        position: relative;
+                        padding: auto;
+                        top: 185px;
+                        left: -4px;
+                        right: 20px;;
+                        width: 70px;
+                        height: 50px;
+                        font-family: 'Courier New', Courier, monospace;
+                        background-color: rgb(139, 233, 228);
+                        
+                        
+                        }
+                        .boton0{
+
+                            position: relative;
+                            top: 195px;
+                            left: -6px;
+                            right: 20px;;
+                            width: 70px;
+                            height: 50px;
+                            font-family: 'Courier New', Courier, monospace;
+                            background-color: rgb(139, 233, 228);
+                            padding: auto;
+                            
+                            }
+                            .botonp{
+
+                                position: relative;
+                                top: 195px;
+                                left: -5px;
+                                right: 20px;;
+                                width: 70px;
+                                height: 50px;
+                                font-family: 'Courier New', Courier, monospace;
+                                background-color: rgb(139, 233, 228);
+                                padding: auto;
+                                
+                                }
+                                .botonI{
+
+                                    position: relative;
+                                    top: 195px;
+                                    left: -4px;
+                                    right: 20px;;
+                                    width: 70px;
+                                    height: 50px;
+                                    font-family: 'Courier New', Courier, monospace;
+                                    background-color: rgb(139, 233, 228);
+                                    padding: auto;
+                                    
+                                    }
+                                   
+                                    
+.boton:hover,.boton2:hover,.boton3:hover,.boton4:hover,.boton5:hover,.boton6:hover,.boton7:hover,.boton8:hover,.boton9:hover,.boton0:hover,.botonp:hover,.botonI:hover{
+    background-color: rgb(73, 158, 154);
+
+}
+.botonx:hover,.botonR:hover,.botonM:hover,.botonS:hover{
+    background-color:  rgb(90, 92, 92);
+}
+.botonese:hover{
+    background-color:  rgb(146, 50, 5);
+}
+.botonesx:hover{
+    background-color:  rgb(145, 5, 5);
+}
+
+
+
+
